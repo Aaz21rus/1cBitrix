@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="339fca5c-e852-424e-9a53-85237b8459ce" name="1cbit" url="http://aaz21rus.beget.tech">
+        <fileTransfer rootFolder="/home/a/aaz21rus/aaz21rus.beget.tech/public_html" accessType="SFTP" host="aaz21rus.beget.tech" port="22" sshConfigId="1d1a3d45-589a-4fcd-819e-c8bb4236c425" sshConfig="1cbit">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
